@@ -1,1 +1,3 @@
 Ahoj git.
+
+Toto je druha verzia suboru.
