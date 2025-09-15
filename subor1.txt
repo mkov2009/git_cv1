@@ -1,1 +1,2 @@
 Ahoj git.
+Pridam novy text.
