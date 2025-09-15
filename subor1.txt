@@ -3,3 +3,4 @@ Ahoj git.
 Toto je stvrta verzia suboru.
 
 Toto je tretoa verzia suboru.
+Pridam novy text.
